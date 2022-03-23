@@ -1,8 +1,8 @@
 # Enterprise Architect 
 ---
-<!-- ## -->
-
-### Site Reliability Engineering Architect
+### Vice President - Standard Chartered Bank (Global Business Services)
+--- 
+*  ___Site Reliability Engineering Architect___
 <!-- raw HTML omitted 
 {::comment}
 Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
@@ -14,7 +14,7 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 {:/comment}
 -->
 ---
-### Cloud Architect
+*  ___Cloud Architect___
 <!-- raw HTML omitted 
 {::comment}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/Financial-Models-Numerical-Methods)
@@ -28,7 +28,7 @@ The aim of these notebooks is to present these interesting topics, by showing th
 {:/comment}
 -->
 ---
-### TOGAF Certified Architect
+*  ___TOGAF Certified Architect___
 <!-- raw HTML omitted 
 {::comment}
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/LSTM-Neural-Network-for-Time-Series-Prediction)
