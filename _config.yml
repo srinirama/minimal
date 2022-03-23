@@ -5,9 +5,7 @@ description:
   <a href="https://www.linkedin.com/in/ramanujamthearchitect">LinkedIn</a> |
   <a href="https://github.com/srinirama">GitHub</a>
   </p>
-  <h2>
-  Vice President - Standard Chartered Bank (Global Business Services)
-  </h2> 
   
-show_downloads: False
+  
+show_downloads: false
 theme: jekyll-theme-minimal
